@@ -1,6 +1,6 @@
 # WHO_Exploratory_Data_Analysis
 
-![My Project](https://github.com/rayaneghilene/ENSEA_AI_Labs/blob/283948d09f73231c4cfba91becbe4bb01973b4f4/Ensea_linkedin_banner10.png)
+![Who_Logo](https://github.com/rayaneghilene/WHO_Exploratory_Data_Analysis/blob/main/WHO10.png)
 ## Introduction
 
 In machine learning, clustering is related to unsupervised learning approaches in which the algorithm fits from the distribution of given data. The main advantage of such methods is the detection
@@ -8,7 +8,7 @@ without a priori of patterns, sorting data, and detecting outliers.
 
 The given dataset is a combination of a dataset produced by the **World Health Organization** and the
 location of countries. It pooled the evolution of 23 features for 15 years among numerous countries.
-One of the goals of this TP3 is to detect continents and subcontinent.
+One of the goals of this TP is to detect continents and subcontinent.
 
 ## Objectives :
 
